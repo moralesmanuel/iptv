@@ -128,6 +128,70 @@ http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_CINEMA_HD&token=65412
 http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_CINEMA_HD_SUB&token=654123_2764.m3u8
 
 
+#EXTINF:-1 tvg-shift=0 tvg-name="Anime TV" tvg-logo="http://iptvmexico.xyz/logos/png/965.png"  group-title="Infantil", Anime TV
+http://www.iptvmexico.xyz/pony2/965.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Baby TV" tvg-logo="http://iptvmexico.xyz/logos/png/2054.png"  group-title="Infantil", Baby TV
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=BABYTV&token=654123_1381.m3u8 
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Boomerang" tvg-logo="http://iptvmexico.xyz/logos/png/224.png"  group-title="Infantil", Boomerang
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=BOOMERANG&token=654123_224.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Cartoon Network" tvg-logo="http://iptvmexico.xyz/logos/png/36.png"  group-title="Infantil", Cartoon Network
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=CARTOON_NETWORK_HD&token=654123_36.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Kids" tvg-logo="http://iptvmexico.xyz/logos/png/45.png"  group-title="Infantil", Discovery Kids
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=DISCOVERY_KIDS_HD&token=654123_45.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Disney Channel" tvg-logo="http://iptvmexico.xyz/logos/png/41.png"  group-title="Infantil", Disney Channel
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=DISNEY_HD&token=654123_41.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Disney Junior" tvg-logo="http://iptvmexico.xyz/logos/png/89.png"  group-title="Infantil", Disney Junior
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=DISNEY_JR&token=654123_89.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Disney XD" tvg-logo="http://iptvmexico.xyz/logos/png/123.png"  group-title="Infantil", Disney XD
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=DISNEY_XD&token=654123_123.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Locomotion" tvg-logo="http://iptvmexico.xyz/logos/png/2022.png"  group-title="Infantil", Locomotion
+http://www.iptvmexico.xyz/pony2/2022.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Nick 2 HD" tvg-logo="http://iptvmexico.xyz/logos/png/2015.png"  group-title="Infantil", Nick 2 HD
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=NICK_2_HD&token=654123_1989.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="NatGeo Kids" tvg-logo="http://iptvmexico.xyz/logos/png/2753.png"  group-title="Infantil", NatGeo Kids
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=NATGEO_KIDS_HD&token=654123_2753.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="NatGeo Kids Mexico" tvg-logo="http://iptvmexico.xyz/logos/png/2757.png"  group-title="Infantil", NatGeo Kids Mexico
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=NATGEOKIDS_MX_HD&token=654123_2757.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Nickelodeon" tvg-logo="http://iptvmexico.xyz/logos/png/44.png"  group-title="Infantil", Nickelodeon
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=NICKELODEON_HD&token=654123_44.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Nick Jr" tvg-logo="http://iptvmexico.xyz/logos/png/222.png"  group-title="Infantil", Nick Jr
+http://www.iptvmexico.xyz/pony2/222.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="NickToons" tvg-logo="http://iptvmexico.xyz/logos/png/310.png"  group-title="Infantil", NickToons
+http://www.iptvmexico.xyz/pony2/310.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Niu Media"  group-title="Infantil" tvg-logo="https://lh3.googleusercontent.com/ue6Egka2vQ4RUXmC0bQmHfWInNt7TtAUJbju1euIaNpYSs2xgsC-6Cy12bYsX7zF4301=w300", Niu Media
+http://www.iptvmexico.xyz/pony2/2080.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TIIN" tvg-logo="http://iptvmexico.xyz/logos/png/208.png" group-title="Infantil", TIIN
+http://www.iptvmexico.xyz/pony2/208.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Tooncast" tvg-logo="http://iptvmexico.xyz/logos/png/131.png" group-title="Infantil", Tooncast
+http://iptvmexico.x10host.com/get.php?calidad=04&canal=TOONCAST&token=654123_131.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/axvewxY.png" group-title="Infantil",Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LKK6eko.jpg" group-title="Infantil",PakaPaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title="Infantil",Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1oapo3E.png" group-title="Infantil",El Chavo
+http://tecnotv.xyz/chavo.php
+
+
 #EXTINF:-1, group-title="PELICULAS", HBO
 http://iptvmexico.x10host.com/get.php?calidad=05&canal=HBO_HD&token=654123_823.m3u8
 #EXTINF:-1, group-title="PELICULAS", HBO opc2
