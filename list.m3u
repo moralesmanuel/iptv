@@ -223,6 +223,8 @@ http://megatv.live:80/live/MegaTest/MegaTV/165.ts
 http://megatv.live:80/live/MegaTest/MegaTV/53.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",Gol TV
 http://megatv.live:80/live/MegaTest/MegaTV/199.ts
+#EXTINF:-1 group-title="DEPORTES", DIRECTV SPORTS
+http://antenatv.tk/wbccuytrpcstrfviucqtenc37cnj32-DirectTVSports.m3u8?pk=daa8ef61dc82cd62e2c1beeb116d4cf53ca4a298a73054dc5a9acccc760bc75f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Canal_del_F%C3%BAtbol_-_logo_2015.png" group-title="DEPORTES HD",CDF HD
 http://megatv.live:80/live/MegaTest/MegaTV/186.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES HD",Fox Sports 1 HD (Chile)
@@ -239,3 +241,14 @@ http://megatv.live:80/live/MegaTest/MegaTV/183.ts
 http://megatv.live:80/live/MegaTest/MegaTV/182.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES HD",Gol TV HD (Norte)
 http://megatv.live:80/live/MegaTest/MegaTV/200.ts
+
+#EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=DISCOVERY_CHANNEL_HD&type=m3u8
+#EXTINF:-1 group-title="CULTURA", NAT GEO
+http://asdfcvb.000webhostapp.com//canal.php?canal=NATGEO_HD&type=m3u8
+#EXTINF:-1 group-title="CULTURA", ANIMAL PLANET
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=ANIMAL_PLANET_HD&type=m3u8
+#EXTINF:-1 group-title="CULTURA", A&E
+http://rtbirjgborj.000webhostapp.com/canal.php?canal=AE_MUNDO_HD&type=m3u8
+
+
