@@ -139,7 +139,7 @@ http://iptvmexico.x10host.com/get.php?calidad=04&canal=BOOMERANG&token=654123_22
 #EXTINF:-1 tvg-shift=0 tvg-name="Cartoon Network" tvg-logo="http://iptvmexico.xyz/logos/png/36.png"  group-title="Infantil", Cartoon Network
 http://iptvmexico.x10host.com/get.php?calidad=05&canal=CARTOON_NETWORK_HD&token=654123_36.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Kids" tvg-logo="http://iptvmexico.xyz/logos/png/45.png"  group-title="Infantil", Discovery Kids
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/2016_Discovery_Kids_logo.svg"  group-title="Infantil", Discovery Kids
 http://iptvmexico.x10host.com/get.php?calidad=05&canal=DISCOVERY_KIDS_HD&token=654123_45.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Disney Channel" tvg-logo="http://iptvmexico.xyz/logos/png/41.png"  group-title="Infantil", Disney Channel
