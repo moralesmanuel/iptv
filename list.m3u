@@ -1,37 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Canal_del_F%C3%BAtbol_-_logo_2015.png" group-title="DEPORTES",CDF Premium
-http://megatv.live:80/live/MegaTest/MegaTV/187.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Canal_del_F%C3%BAtbol_-_logo_2015.png" group-title="DEPORTES",CDO Basico
-http://megatv.live:80/live/MegaTest/MegaTV/189.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES",Fox Sports Premium (Argentina)
-http://megatv.live:80/live/MegaTest/MegaTV/58.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES",Fox Sports 2 (Sur)
-http://megatv.live:80/live/MegaTest/MegaTV/168.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES",Fox Sports 3 (Sur)
-http://megatv.live:80/live/MegaTest/MegaTV/165.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/TNTSportsLA.png" group-title="DEPORTES",TNT Sports
-http://megatv.live:80/live/MegaTest/MegaTV/53.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",Gol TV
-http://megatv.live:80/live/MegaTest/MegaTV/199.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Canal_del_F%C3%BAtbol_-_logo_2015.png" group-title="DEPORTES HD",CDF HD
-http://megatv.live:80/live/MegaTest/MegaTV/186.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES HD",Fox Sports 1 HD (Chile)
-http://megatv.live:80/live/MegaTest/MegaTV/173.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES HD",FoxSports 2 HD (Norte)
-http://megatv.live:80/live/MegaTest/MegaTV/170.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES HD",FoxSports 3 HD (Sur)
-http://megatv.live:80/live/MegaTest/MegaTV/166.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES HD",FoxSports PHD (Argentina)
-http://megatv.live:80/live/MegaTest/MegaTV/176.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/TNTSportsLA.png group-title="DEPORTES HD",TNT Sports HD
-http://megatv.live:80/live/MegaTest/MegaTV/183.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_Univision_2013.svg" group-title="DEPORTES HD",Univision Deportes HD
-http://megatv.live:80/live/MegaTest/MegaTV/182.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES HD",Gol TV HD (Norte)
-http://megatv.live:80/live/MegaTest/MegaTV/200.ts
-
-
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1486480229.jpg" group-title="NACIONAL" , Canal 13 
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8 
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1486614829.png" group-title="NACIONAL" , TVN 
@@ -134,3 +102,76 @@ http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8 
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15167576441.jpg" group-title="NACIONAL" , Contivisión Musica 
 http://movilstream.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/chunklist_w205005636_b1428000.m3u8 
+
+
+#EXTINF:-1, group-title="PELICULAS", FOX ACTION
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOXACTION_HD&token=654123_217.m3u8
+#EXTINF:-1, group-title="PELICULAS", FOX ACTION opc2
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_ACTION_MEXICO_HD&token=654123_1461.m3u8
+#EXTINF:-1, group-title="PELICULAS", FOX FAMILY
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOXFAMILY_HD&token=654123_229.m3u8
+#EXTINF:-1, group-title="PELICULAS", FOX MOVIES
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOXMOVIES_HD&token=654123_305.m3u8
+#EXTINF:-1, group-title="PELICULAS", FOX SERIES
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX1_HD&token=654123_379.m3u8
+#EXTINF:-1, group-title="PELICULAS", FOX SERIES opc2
+http://98.109.150.239:8001/play/a01r/index.m3u8
+#EXTINF:-1, group-title="PELICULAS", FOX SERIES opc3
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX1_HD_SUB&token=654123_380.m3u8
+#EXTINF:-1, group-title="PELICULAS", Fox Classics
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_CLASSICS_HD&token=654123_228.m3u8
+#EXTINF:-1, group-title="PELICULAS", FOX COMEDY
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_COMEDY_HD&token=654123_1306.m3u8
+#EXTINF:-1, group-title="PELICULAS", FOX CINEMA
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_CINEMA_HD&token=654123_230.m3u8
+#EXTINF:-1, group-title="PELICULAS", FOX CINEMA opc2
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=FOX_CINEMA_HD_SUB&token=654123_2764.m3u8
+
+
+#EXTINF:-1, group-title="PELICULAS", HBO
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HBO_HD&token=654123_823.m3u8
+#EXTINF:-1, group-title="PELICULAS", HBO opc2
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HBO_HD_SUB&token=654123_824.m3u8
+#EXTINF:-1, group-title="PELICULAS", HBO 2
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HBO_2_HD&token=654123_832.m3u8
+#EXTINF:-1, group-title="PELICULAS",HBO Family
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HBO_FAMILY_HD&token=654123_849.m3u8
+#EXTINF:-1, group-title="PELICULAS", HBO Plus
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HBO_PLUS_HD&token=654123_831.m3u8
+#EXTINF:-1, group-title="PELICULAS", HBO Signature
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=HBO_SIGNATURE_HD&token=654123_894.m3u8
+#EXTINF:-1, group-title="PELICULAS", MAX up
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=MAX_UP_HD&token=654123_912.m3u8
+#EXTINF:-1, group-title="PELICULAS",MAX Prime
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=MAX_PRIME_HD&token=654123_1311.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Canal_del_F%C3%BAtbol_-_logo_2015.png" group-title="DEPORTES",CDF Premium
+http://megatv.live:80/live/MegaTest/MegaTV/187.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Canal_del_F%C3%BAtbol_-_logo_2015.png" group-title="DEPORTES",CDO Basico
+http://megatv.live:80/live/MegaTest/MegaTV/189.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES",Fox Sports Premium (Argentina)
+http://megatv.live:80/live/MegaTest/MegaTV/58.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES",Fox Sports 2 (Sur)
+http://megatv.live:80/live/MegaTest/MegaTV/168.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES",Fox Sports 3 (Sur)
+http://megatv.live:80/live/MegaTest/MegaTV/165.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/TNTSportsLA.png" group-title="DEPORTES",TNT Sports
+http://megatv.live:80/live/MegaTest/MegaTV/53.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",Gol TV
+http://megatv.live:80/live/MegaTest/MegaTV/199.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Canal_del_F%C3%BAtbol_-_logo_2015.png" group-title="DEPORTES HD",CDF HD
+http://megatv.live:80/live/MegaTest/MegaTV/186.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES HD",Fox Sports 1 HD (Chile)
+http://megatv.live:80/live/MegaTest/MegaTV/173.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES HD",FoxSports 2 HD (Norte)
+http://megatv.live:80/live/MegaTest/MegaTV/170.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES HD",FoxSports 3 HD (Sur)
+http://megatv.live:80/live/MegaTest/MegaTV/166.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES HD",FoxSports PHD (Argentina)
+http://megatv.live:80/live/MegaTest/MegaTV/176.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/TNTSportsLA.png group-title="DEPORTES HD",TNT Sports HD
+http://megatv.live:80/live/MegaTest/MegaTV/183.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_Univision_2013.svg" group-title="DEPORTES HD",Univision Deportes HD
+http://megatv.live:80/live/MegaTest/MegaTV/182.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES HD",Gol TV HD (Norte)
+http://megatv.live:80/live/MegaTest/MegaTV/200.ts
