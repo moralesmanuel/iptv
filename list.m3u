@@ -147,38 +147,38 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-shift=0 tvg-name="Baby TV" tvg-logo="http://iptvmexico.xyz/logos/png/2054.png"  group-title="Infantil", Baby TV
 http://iptvmexico.x10host.com/get.php?calidad=04&canal=BABYTV&token=654123_1381.m3u8 
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Boomerang" tvg-logo="http://iptvmexico.xyz/logos/png/224.png"  group-title="Infantil", Boomerang
-http://iptvmexico.x10host.com/get.php?calidad=04&canal=BOOMERANG&token=654123_224.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Boomerang" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572234457-Imagen.png"  group-title="Infantil", Boomerang
+http://ragnaroktv.com/hls_live/kr/BOOMERANG/MzY2MzKysDA0NgAA/boomerang.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Cartoon Network" tvg-logo="http://iptvmexico.xyz/logos/png/36.png"  group-title="Infantil", Cartoon Network
-http://iptvmexico.x10host.com/get.php?calidad=05&canal=CARTOON_NETWORK_HD&token=654123_36.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Cartoon Network" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572092429-Imagen.png"  group-title="Infantil", Cartoon Network
+http://ragnaroktv.com/hls_live/kr/CARTOON_NETWORK_HD/MzY2MzKysDA0NgAA/cart_net.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/2016_Discovery_Kids_logo.svg"  group-title="Infantil", Discovery Kids
-http://iptvmexico.x10host.com/get.php?calidad=05&canal=DISCOVERY_KIDS_HD&token=654123_45.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Kids" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572033287-Imagen.png"  group-title="Infantil", Discovery Kids
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_KIDS_HD/MzY2MzKysDA0NgAA/disc_kids.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Disney Channel" tvg-logo="http://iptvmexico.xyz/logos/png/41.png"  group-title="Infantil", Disney Channel
-http://iptvmexico.x10host.com/get.php?calidad=05&canal=DISNEY_HD&token=654123_41.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Disney Channel" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581955384-Imagen.png"  group-title="Infantil", Disney Channel
+http://ragnaroktv.com/hls_live/kr/DISNEY_HD/MzY2MzKysDA0NgAA/d1sney.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Disney Junior" tvg-logo="http://iptvmexico.xyz/logos/png/89.png"  group-title="Infantil", Disney Junior
-http://iptvmexico.x10host.com/get.php?calidad=04&canal=DISNEY_JR&token=654123_89.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Disney Junior" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471985041439-Imagen.png"  group-title="Infantil", Disney Junior
+http://ragnaroktv.com/hls_live/kr/DISNEY_JR/MzY2MzKysDA0NgAA/d1sneyjr.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Disney XD" tvg-logo="http://iptvmexico.xyz/logos/png/123.png"  group-title="Infantil", Disney XD
-http://iptvmexico.x10host.com/get.php?calidad=04&canal=DISNEY_XD&token=654123_123.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Disney XD" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487886922885-Imagen.png"  group-title="Infantil", Disney XD
+http://ragnaroktv.com/hls_live/kr/DISNEY_XD/MzY2MzKysDA0NgAA/d1sneyxd.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png"  group-title="Infantil", Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Nick 2 HD" tvg-logo="http://iptvmexico.xyz/logos/png/2015.png"  group-title="Infantil", Nick 2 HD
-http://iptvmexico.x10host.com/get.php?calidad=05&canal=NICK_2_HD&token=654123_1989.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Nick 2 HD" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581038497-Imagen.png"  group-title="Infantil", Nick 2 HD
+http://ragnaroktv.com/hls_live/kr/NICK_2_HD/MzY2MzKysDA0NgAA/nick2.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="NatGeo Kids" tvg-logo="http://iptvmexico.xyz/logos/png/2753.png"  group-title="Infantil", NatGeo Kids
-http://iptvmexico.x10host.com/get.php?calidad=05&canal=NATGEO_KIDS_HD&token=654123_2753.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="NatGeo Kids" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505316301766-Imagen.jpg"  group-title="Infantil", NatGeo Kids
+http://ragnaroktv.com/hls_live/kr/NATGEO_KIDS_HD/MzY2MzKysDA0NgAA/natgeo_kids.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="NatGeo Kids Mexico" tvg-logo="http://iptvmexico.xyz/logos/png/2757.png"  group-title="Infantil", NatGeo Kids Mexico
 http://iptvmexico.x10host.com/get.php?calidad=05&canal=NATGEOKIDS_MX_HD&token=654123_2757.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Nickelodeon" tvg-logo="http://iptvmexico.xyz/logos/png/44.png"  group-title="Infantil", Nickelodeon
-http://iptvmexico.x10host.com/get.php?calidad=05&canal=NICKELODEON_HD&token=654123_44.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Nickelodeon" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377273876-Imagen.jpg"  group-title="Infantil", Nickelodeon
+http://ragnaroktv.com/hls_live/kr/NICKELODEON_HD/MzY2MzKysDA0NgAA/nick.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Nick Jr" tvg-logo="http://iptvmexico.xyz/logos/png/222.png"  group-title="Infantil", Nick Jr
 http://www.iptvmexico.xyz/pony2/222.m3u8
@@ -192,8 +192,8 @@ http://www.iptvmexico.xyz/pony2/2080.m3u8
 #EXTINF:-1 tvg-shift=0 tvg-name="TIIN" tvg-logo="http://iptvmexico.xyz/logos/png/208.png" group-title="Infantil", TIIN
 http://www.iptvmexico.xyz/pony2/208.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Tooncast" tvg-logo="http://iptvmexico.xyz/logos/png/131.png" group-title="Infantil", Tooncast
-http://iptvmexico.x10host.com/get.php?calidad=04&canal=TOONCAST&token=654123_131.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Tooncast" tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472055414268-Imagen.png" group-title="Infantil", Tooncast
+http://ragnaroktv.com/hls_live/kr/TOONCAST/MzY2MzKysDA0NgAA/tooncast.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/axvewxY.png" group-title="Infantil",Animax
@@ -269,14 +269,22 @@ http://ragnaroktv.com/hls_live/kr/ESPN_3_HD/MzY2MzKysDA0NgAA/espn3_kr.m3u8
 #EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573434219-Imagen.png" group-title="Deportes",ESPN + HD
 http://ragnaroktv.com/hls_live/kr/ESPN_PLUS_HD/MzY2MzKysDA0NgAA/espn_plus.m3u8
 
-#EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=DISCOVERY_CHANNEL_HD&type=m3u8
-#EXTINF:-1 group-title="CULTURA", NAT GEO
-http://asdfcvb.000webhostapp.com//canal.php?canal=NATGEO_HD&type=m3u8
-#EXTINF:-1 group-title="CULTURA", ANIMAL PLANET
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=ANIMAL_PLANET_HD&type=m3u8
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572442553-Imagen.png" group-title="Cultura",DISCOVERY WORLD HD
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_WORLD_HD/MzY2MzKysDA0NgAA/world.m3u8
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377601533-Imagen.jpg" group-title="Cultura",DISCOVERY CHANNEL HD
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_CHANNEL_HD/MzY2MzKysDA0NgAA/discovery_channel_hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506719700577-Imagen.jpg" group-title="Cultura",DISCOVERY THEATER HD
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_THEATER_HD/MzY2MzKysDA0NgAA/theater.m3u8
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472055485257-Imagen.png" group-title="Cultura",DISCOVERY CIVILIZATION
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_CIVILIZATION/MzY2MzKysDA0NgAA/disc_civil.m3u8
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473875960218-Imagen.png" group-title="Cultura",DISCOVERY SCIENCE
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_SCIENCE/MzY2MzKysDA0NgAA/disc_science.m3u8
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572692894-Imagen.png" group-title="Cultura",NATGEO HD
+http://ragnaroktv.com/hls_live/kr/NATGEO_HD/MzY2MzKysDA0NgAA/natgeo.m3u8
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506719725365-Imagen.jpg" group-title="Cultura",ANIMAL PLANET HD
+http://ragnaroktv.com/hls_live/kr/ANIMAL_PLANET_HD/MzY2MzKysDA0NgAA/anim_planet.m3u8
 #EXTINF:-1 group-title="CULTURA", A&E
-http://rtbirjgborj.000webhostapp.com/canal.php?canal=AE_MUNDO_HD&type=m3u8
+http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/MzY2MzKysDA0NgAA/aehd.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/V6J7g61.png" group-title="Canales de Noticias", BBC World News | SD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
