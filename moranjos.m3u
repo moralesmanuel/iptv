@@ -1,2 +1,35 @@
 #EXTM3U
-http://chileiptv.cl/cl.m3u
+#EXTINF:-1,CULTURA:Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1,MEXICO:Las Estrellas Latinoamerica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,DEPORTES:CDF P OP1
+https://live11.userapi.com/639911/live/HbLzLGlDfHU/playlist.m3u8
+#EXTINF:-1,DEPORTES:CDF P OP2
+https://live11.userapi.com/639908/live/Hc2MLNdDfMuFRmEK/playlist.m3u8
+#EXTINF:-1,DEPORTES:CDF P OP3
+https://live97.vkuserlive.com/637614/live/kCNioeZAf_o/playlist.m3u8
+#EXTINF:-1,DEPORTES:CDF P OP4
+https://live50.vkuserlive.com/637604/live/tbX0hDxUayA/playlist.m3u8
+#EXTINF:-1,NOTICIAS:Cable NOTICIAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1,NOTICIAS:EL TIEMPO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1,NEWS:BBC WORLD NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1,España:Antena 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=1439881142212
+#EXTINF:-1,CULTURA:Trendy Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1,CULTURA:COSMOVISION
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1,CULTURA:Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1,CULTURA:Lifedesign
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1,CULTURA:Yes
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:-1,TVN | HD
+http://cl-a3-p-e-oi1.cdn.mdstrm.com/live-stream/57a498c4d7b86d600e5461cb/publish/media_180.m3u8?dnt=true&ref=http%3A%2F%2Fwww.tvn.cl%2Fenvivo%2F&es=cl-a3-p-e-oi1.cdn.mdstrm.com&ote=1503796545039&ot=00VXWy1e2WyS032AOArjHw&proto=http
+#EXTINF:-1,MEGA
+http://cl-a3-p-e-hb2.cdn.mdstrm.com/live-stream/53d2c1a32640614e62a0e000/publish/media_250.m3u8?dnt=true&access_token=false&ref=http%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F&es=cl-a3-p-e-hb2.cdn.mdstrm.com&ote=1503798957307&ot=nXlT4mGCvtsCbhM93ojmJQ&proto=http
